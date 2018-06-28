@@ -1,0 +1,2 @@
+2018-04-13 09:39:39  [{"Updata_Je":0.0000,"Address":"四川省凉山州西昌市名店街","UserName":"四川凉山李国超","Birthday":"2018-04-13T00:00:00","FIntegral":0.0000,"FItemID":1092,"Password":"123456","Telephone":"15881518819","CardNo":"15881518819","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2018-04-13 10:39:36  [{"Updata_Je":0.0000,"Address":"四川省凉山州西昌市名店街西门坡菜市场门口","UserName":"四川凉山李国超","Birthday":"2018-04-13T00:00:00","FIntegral":0.0000,"FItemID":1092,"Password":"123456","Telephone":"15881518819","CardNo":"15881518819","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

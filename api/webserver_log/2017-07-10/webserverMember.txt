@@ -1,0 +1,1 @@
+2017-07-10 12:34:21  [{"Updata_Je":0.0000,"Address":"佛山顺德陈村碧桂花城超市","UserName":"顺德陈村聂德辉","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":171,"Password":"abcd8090","Telephone":"13415742161","CardNo":"13726300255","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

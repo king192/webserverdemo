@@ -1,0 +1,1 @@
+2017-09-15 15:16:42  [{"Updata_Je":0.0000,"Address":"茂名市新坡商贸城一街22号","UserName":"茂名市新坡朱火艺","Birthday":"2017-09-15T00:00:00","FIntegral":0.0000,"FItemID":1048,"Password":"123456","Telephone":"13726081223","CardNo":"13726081223","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

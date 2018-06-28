@@ -1,0 +1,1 @@
+2018-06-28 09:04:59  [{"Updata_Je":0.0000,"Address":"广西玉林北流永安西路1号粮食局一楼铺面","UserName":"广西玉林谢泽军","Birthday":"2018-06-26T00:00:00","FIntegral":0.0000,"FItemID":1125,"Password":"123456","Telephone":"13768487599","CardNo":"13768487599","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

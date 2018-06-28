@@ -1,0 +1,1 @@
+2017-08-08 13:37:45  [{"Updata_Je":0.0000,"Address":"贵州省贵阳市乌当区新添寨创新社区服务中心新天路92号","UserName":"贵阳乌当新添寨","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":570,"Password":"123456","Telephone":"15286092362","CardNo":"18096015350","FPapers":"","Email":"","FStockID":20,"FDeleteFlag":1}]  

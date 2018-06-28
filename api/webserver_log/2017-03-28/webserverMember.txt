@@ -1,0 +1,2 @@
+2017-03-28 09:57:28  [{"Updata_Je":0.0000,"Address":"河南省长葛市香港商业街","UserName":"河南长葛咖啡李晓娟","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":629,"Password":"123456","Telephone":"18839966718","CardNo":"18839966718","FPapers":"","Email":"","FStockID":24,"FDeleteFlag":1}]  
+2017-03-28 14:47:47  [{"Updata_Je":0.0000,"Address":"佛山市南海区狮山镇高尔夫路338号恒湖轩47号","UserName":"佛山南海狮山李丽仪","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":972,"Password":"123456","Telephone":"18942413603","CardNo":"18942413603","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

@@ -1,0 +1,2 @@
+2017-03-30 16:47:42  [{"Updata_Je":0.0000,"Address":"罗定市罗镜镇新城北三路54号","UserName":"云浮罗定林永富","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":973,"Password":"123456","Telephone":"17688733070","CardNo":"17688733070","FPapers":"","Email":"","FStockID":20,"FDeleteFlag":1}]  
+2017-03-30 17:04:47  [{"Updata_Je":0.0000,"Address":"罗定市太平镇城东大道","UserName":"云浮罗定吴德贵","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":974,"Password":"123456","Telephone":"13510498393","CardNo":"13510498393","FPapers":"","Email":"","FStockID":20,"FDeleteFlag":1}]  

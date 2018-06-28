@@ -1,0 +1,1 @@
+2017-07-21 16:47:02  [{"Updata_Je":0.0000,"Address":"东莞市中堂镇新兴路11号铺","UserName":"东莞中堂李辉","Birthday":"2017-07-21T00:00:00","FIntegral":0.0000,"FItemID":1025,"Password":"123456","Telephone":"13528527515","CardNo":"13528527515","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

@@ -1,0 +1,2 @@
+2017-03-06 09:49:01  [{"Updata_Je":0.0000,"Address":"湖南省永州市宁远县文庙商业广场B栋104号","UserName":"湖南永州周常英","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":590,"Password":"123456","Telephone":"15116641908","CardNo":"13690516331","FPapers":"","Email":"","FStockID":21,"FDeleteFlag":1}]  
+2017-03-06 16:33:30  [{"Updata_Je":0.0000,"Address":"安徽省合肥市庐阳区濉溪路191号","UserName":"安徽合肥高伟","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":966,"Password":"123456","Telephone":"18100518120","CardNo":"18100518120","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

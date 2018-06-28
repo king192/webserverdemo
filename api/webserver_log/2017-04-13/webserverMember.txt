@@ -1,0 +1,1 @@
+2017-04-13 09:57:07  [{"Updata_Je":0.0000,"Address":"信宜钱排镇新街街头金润来酒店斜对面","UserName":"信宜钱排镇李海艳","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":982,"Password":"123456","Telephone":"17876791734","CardNo":"17876791734","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

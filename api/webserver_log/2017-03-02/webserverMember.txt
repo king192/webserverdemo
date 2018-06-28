@@ -1,0 +1,2 @@
+2017-03-02 11:17:09  [{"Updata_Je":0.0000,"Address":"中山市大涌镇卓山路岚田市场老年活动中心铺位第3卡","UserName":"中山大通郑贵文","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":880,"Password":"123456","Telephone":"15113371983","CardNo":"15113371983","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2017-03-02 14:21:46  [{"Updata_Je":0.0000,"Address":"广东省东莞市高埗镇上江城东路1号","UserName":"东莞高埗熊雪邦","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":965,"Password":"123456","Telephone":"18107284186","CardNo":"18107284186","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

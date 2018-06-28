@@ -1,0 +1,1 @@
+2018-03-26 15:20:34  [{"Updata_Je":0.0000,"Address":"东莞市大岭山市玉屏路1号领尚购物广场1楼1042号铺","UserName":"东莞大岭山雷青兰","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":956,"Password":"123456","Telephone":"17702635085","CardNo":"13712979268","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

@@ -1,0 +1,1 @@
+2018-01-22 14:58:19  [{"Updata_Je":0.0000,"Address":"茂名信宜市西江开发区街道","UserName":"茂名信宜林海","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":139,"Password":"123456","Telephone":"17819007049","CardNo":"18824272826","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

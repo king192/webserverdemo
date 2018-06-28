@@ -1,0 +1,2 @@
+2017-08-04 10:24:12  [{"Updata_Je":0.0000,"Address":"河源市东源县灯塔镇镇西路11号","UserName":"河源东源廖俊杰","Birthday":"2017-08-03T00:00:00","FIntegral":0.0000,"FItemID":1030,"Password":"123456","Telephone":"13650664164","CardNo":"13650664164","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2017-08-04 14:13:39  [{"Updata_Je":0.0000,"Address":"广州市天河区黄村王园路自编16号","UserName":"天河黄村黄丹桦","Birthday":"2017-08-04T00:00:00","FIntegral":0.0000,"FItemID":1031,"Password":"123456","Telephone":"13430319154","CardNo":"13430319154","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

@@ -1,0 +1,2 @@
+2018-02-26 09:42:20  [{"Updata_Je":0.0000,"Address":"番禺区南村里仁洞万利商业街B8","UserName":"番禺里仁洞吴云燕","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":584,"Password":"123456","Telephone":"17520067700","CardNo":"18520556192","FPapers":"","Email":"","FStockID":21,"FDeleteFlag":1}]  
+2018-02-26 09:54:45  [{"Updata_Je":0.0000,"Address":"湖南省永州市江永县一小旁边第二家门面8090奶茶","UserName":"湖南永州江永","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":543,"Password":"123456","Telephone":"15907499662","CardNo":"18244727848","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

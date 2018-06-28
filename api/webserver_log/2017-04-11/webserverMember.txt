@@ -1,0 +1,2 @@
+2017-04-11 11:00:36  [{"Updata_Je":0.0000,"Address":"湖南省邵阳市双清区金百汇商业街A317","UserName":"湖南邵阳双清区谭英","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":980,"Password":"123456","Telephone":"13378096111","CardNo":"13378096111","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2017-04-11 15:17:48  [{"Updata_Je":0.0000,"Address":"化州市官桥镇富民区邮电局对面","UserName":"茂名化州官桥陈达","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":981,"Password":"123456","Telephone":"15813032153","CardNo":"15813032153","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

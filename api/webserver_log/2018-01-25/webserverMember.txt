@@ -1,0 +1,1 @@
+2018-01-25 14:48:31  [{"Updata_Je":0.0000,"Address":"深圳市罗湖区爱国路1002号轻工贸大厦首层左侧之三","UserName":"深圳罗湖叶菲","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":969,"Password":"123456","Telephone":"18318970121","CardNo":"13602606649","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

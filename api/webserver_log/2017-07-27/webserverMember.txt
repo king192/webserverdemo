@@ -1,0 +1,1 @@
+2017-07-27 11:35:55  [{"Updata_Je":0.0000,"Address":"韶关乳源县文昌中路地税局正对面","UserName":"韶关乳源文丽","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":434,"Password":"123456","Telephone":"18318338566","CardNo":"（停用）18318338566","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

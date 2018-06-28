@@ -1,0 +1,1 @@
+2017-11-13 14:26:00  [{"Updata_Je":0.0000,"Address":"广州市番禺区南村镇万博二路202号上城国际二期一座114号铺","UserName":"南村万博直营店","Birthday":"2016-07-14T00:00:00","FIntegral":0.0000,"FItemID":826,"Password":"123456","Telephone":"020-31104828","CardNo":"15017552021","FPapers":"","Email":"","FStockID":41,"FDeleteFlag":1}]  

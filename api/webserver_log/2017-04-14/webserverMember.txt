@@ -1,0 +1,1 @@
+2017-04-14 14:07:33  [{"Updata_Je":0.0000,"Address":"增城区荔城街百花路8号广悦轩小区（送货地址）","UserName":"增城华立学院王亭","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":187,"Password":"123456","Telephone":"13928944828","CardNo":"13509281010","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

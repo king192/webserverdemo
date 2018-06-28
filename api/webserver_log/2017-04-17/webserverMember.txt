@@ -1,0 +1,2 @@
+2017-04-17 15:41:21  [{"Updata_Je":0.0000,"Address":"东莞中堂镇潢涌南堤大街十巷1号","UserName":"东莞高埗黎广达","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":700,"Password":"123456","Telephone":"13928269275","CardNo":"15099708510","FPapers":"","Email":"","FStockID":31,"FDeleteFlag":1}]  
+2017-04-17 16:21:54  [{"Updata_Je":0.0000,"Address":"陕西省安康市高新区花园大道与316国道十字","UserName":"陕西安康黄万保","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":983,"Password":"123456","Telephone":"18706228619","CardNo":"18706228619","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

@@ -1,0 +1,2 @@
+2017-03-09 14:09:17  [{"Updata_Je":0.0000,"Address":"佛山市张槎镇青柯旧吴村","UserName":"佛山张槎廖乾元","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":41,"Password":"123456","Telephone":"15625900892","CardNo":"13827584758","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2017-03-09 14:11:25  [{"Updata_Je":0.0000,"Address":"广州从化环市东路166号（城建学院一区3栋宿舍旁）","UserName":"从化城建学院余煜民","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":224,"Password":"123456","Telephone":"18319274759","CardNo":"15989248805","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

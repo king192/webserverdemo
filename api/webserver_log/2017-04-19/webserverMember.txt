@@ -1,0 +1,1 @@
+2017-04-19 10:14:04  [{"Updata_Je":0.0000,"Address":"梅州市梅江区彬芳大道43号","UserName":"梅州市梅江区邹","Birthday":"2016-07-14T00:00:00","FIntegral":0.0000,"FItemID":820,"Password":"123456","Telephone":"18023527238","CardNo":"18023527238","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

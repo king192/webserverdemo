@@ -1,0 +1,2 @@
+2017-08-15 10:23:19  [{"Updata_Je":0.0000,"Address":"番禺钟村锦绣生态园136号铺","UserName":"番禺钟村李杰圣","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":34,"Password":"123456","Telephone":"13503056658","CardNo":"（停用）13503056658","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2017-08-15 17:08:30  [{"Updata_Je":0.0000,"Address":"广州市越秀区六榕路143号101铺","UserName":"广州越秀陈毅稳","Birthday":"2017-06-21T00:00:00","FIntegral":0.0000,"FItemID":1009,"Password":"20170808","Telephone":"13570543287","CardNo":"13570543287","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

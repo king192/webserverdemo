@@ -1,0 +1,2 @@
+2017-04-25 08:46:28  [{"Updata_Je":0.0000,"Address":"中山古镇冈东中兴大道30号星力百货","UserName":"中山古镇张军波","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":518,"Password":"123456","Telephone":"13924967868","CardNo":"15382789666","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  
+2017-04-25 08:47:32  [{"Updata_Je":0.0000,"Address":"中山古镇冈东中兴大道30号星力百货","UserName":"中山古镇张军波","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":518,"Password":"123456","Telephone":"13924967868","CardNo":"15382789666","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

@@ -1,0 +1,1 @@
+2017-11-17 10:08:43  [{"Updata_Je":0.0000,"Address":"湖南省永州市江华瑶族自治县沱江镇民族路职业中专5号铺","UserName":"湖南永州江华唐甫扬","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":93,"Password":"872798","Telephone":"13874720615","CardNo":"（停用）13874720615","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

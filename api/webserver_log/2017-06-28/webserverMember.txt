@@ -1,0 +1,2 @@
+2017-06-28 15:55:03  [{"Updata_Je":0.0000,"Address":"茂名电白霞洞镇霞北路","UserName":"茂名电白方良力","Birthday":"2017-06-28T00:00:00","FIntegral":0.0000,"FItemID":1015,"Password":"123456","Telephone":"15219888800","CardNo":"15219888800","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2017-06-28 16:28:08  [{"Updata_Je":0.0000,"Address":"东莞中堂镇潢涌南堤大街十巷1号","UserName":"东莞高埗黎广达","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":700,"Password":"123456","Telephone":"13688900802","CardNo":"15099708510","FPapers":"","Email":"","FStockID":31,"FDeleteFlag":1}]  

@@ -1,0 +1,1 @@
+2017-10-31 16:08:03  [{"Updata_Je":0.0000,"Address":"南村商贸城（南村医院对面）","UserName":"南村商贸城","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":407,"Password":"123456","Telephone":"15360861200","CardNo":"15360861200","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

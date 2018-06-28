@@ -1,0 +1,1 @@
+2017-09-14 16:46:48  [{"Updata_Je":0.0000,"Address":"深圳市盐田区沙头角恩上路","UserName":"深圳盐田张健","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":475,"Password":"123456","Telephone":"13302311456","CardNo":"（停用）13302311456","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

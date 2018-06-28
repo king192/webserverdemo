@@ -1,0 +1,2 @@
+2017-09-12 10:06:06  [{"Updata_Je":0.0000,"Address":"云浮罗定市围底镇莲藕塘永昌百百1至2卡","UserName":"云浮罗定张才洪","Birthday":"2017-09-12T00:00:00","FIntegral":0.0000,"FItemID":1046,"Password":"123456","Telephone":"13537933301","CardNo":"13537933301","FPapers":"","Email":"","FStockID":20,"FDeleteFlag":1}]  
+2017-09-12 14:38:59  [{"Updata_Je":0.0000,"Address":"海南省陵水县陵城文教路82号","UserName":"海南省陵水郑尉海","Birthday":"2017-09-12T00:00:00","FIntegral":0.0000,"FItemID":1047,"Password":"123456","Telephone":"13389893938","CardNo":"13389893938","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

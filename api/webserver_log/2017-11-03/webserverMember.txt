@@ -1,0 +1,1 @@
+2017-11-03 11:19:02  [{"Updata_Je":0.0000,"Address":"东莞市南城区广东科技学院西湖美食街7-8号店","UserName":"东莞南城梁国鸿","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":765,"Password":"123456","Telephone":"13580863338","CardNo":"15818480488","FPapers":"","Email":"","FStockID":34,"FDeleteFlag":1}]  

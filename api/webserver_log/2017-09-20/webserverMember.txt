@@ -1,0 +1,2 @@
+2017-09-20 09:39:54  [{"Updata_Je":0.0000,"Address":"广西梧州岑溪市归义镇归义中队旁边","UserName":"广西梧州李汉裕","Birthday":"2017-09-20T00:00:00","FIntegral":0.0000,"FItemID":1050,"Password":"123456","Telephone":"13828684176","CardNo":"13828684176","FPapers":"","Email":"","FStockID":20,"FDeleteFlag":1}]  
+2017-09-20 09:41:58  [{"Updata_Je":0.0000,"Address":"广西省隆林县粮食局第七门面8090鲜萃茶","UserName":"广西隆林邓岚","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":69,"Password":"123456","Telephone":"13977676863","CardNo":"18278688166","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

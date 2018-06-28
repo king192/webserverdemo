@@ -1,0 +1,1 @@
+2017-11-14 10:11:42  [{"Updata_Je":0.0000,"Address":"广东省化州市河东上街垌三十米街新华酒店","UserName":"茂名化州马坚红","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":599,"Password":"123456","Telephone":"15360763722","CardNo":"13828656678","FPapers":"","Email":"","FStockID":21,"FDeleteFlag":1}]  

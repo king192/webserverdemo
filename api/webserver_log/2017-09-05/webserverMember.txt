@@ -1,0 +1,1 @@
+2017-09-05 14:10:10  [{"Updata_Je":0.0000,"Address":"佛山市顺德区北滘商业广场乐购超市S01铺“果度”","UserName":"顺德果度方","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":707,"Password":"123456","Telephone":"13924838393","CardNo":"13924838393","FPapers":"","Email":"","FStockID":31,"FDeleteFlag":1}]  

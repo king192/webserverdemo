@@ -1,0 +1,1 @@
+2018-01-09 10:09:47  [{"Updata_Je":0.0000,"Address":"四川省宜宾市翠屏区新村科学员宾馆旁8090鲜萃茶","UserName":"四川宜宾孙静","Birthday":"2017-11-29T00:00:00","FIntegral":0.0000,"FItemID":1065,"Password":"123456","Telephone":"18016182056","CardNo":"18016182056","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

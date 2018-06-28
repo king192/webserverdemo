@@ -1,0 +1,1 @@
+2017-11-09 16:36:20  [{"Updata_Je":0.0000,"Address":"广西玉林北流市白马镇新市场城隍庙球场边","UserName":"广西玉林任福庆","Birthday":"2017-11-09T00:00:00","FIntegral":0.0000,"FItemID":1059,"Password":"123456","Telephone":"15768184225","CardNo":"15768184225","FPapers":"","Email":"","FStockID":20,"FDeleteFlag":1}]  

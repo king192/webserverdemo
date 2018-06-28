@@ -1,0 +1,2 @@
+2017-03-24 11:42:31  [{"Updata_Je":0.0000,"Address":"惠州市惠城区河南岸14号小区辉达大厦3号铺","UserName":"惠州惠城邱秀凤","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":970,"Password":"123456","Telephone":"13790443972","CardNo":"13790443972","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  
+2017-03-24 14:38:37  [{"Updata_Je":0.0000,"Address":"深圳市龙岗区布吉街道办布吉街84号","UserName":"深圳龙岗吴贤良","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":971,"Password":"123456","Telephone":"13620988573","CardNo":"13620988573","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

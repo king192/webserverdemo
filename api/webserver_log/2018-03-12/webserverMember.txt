@@ -1,0 +1,1 @@
+2018-03-12 09:41:47  [{"Updata_Je":0.0000,"Address":"东莞市中堂镇悦湖苑3号楼107商铺","UserName":"东莞中堂镇黎淑英","Birthday":"2017-08-10T00:00:00","FIntegral":0.0000,"FItemID":1034,"Password":"123456","Telephone":"13763158267","CardNo":"13532399369","FPapers":"","Email":"","FStockID":20,"FDeleteFlag":1}]  

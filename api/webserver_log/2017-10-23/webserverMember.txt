@@ -1,0 +1,1 @@
+2017-10-23 11:37:08  [{"Updata_Je":0.0000,"Address":"海南省陵水县陵城文教路82号","UserName":"海南省陵水郑尉海","Birthday":"2017-09-12T00:00:00","FIntegral":0.0000,"FItemID":1047,"Password":"123456","Telephone":"17776896888","CardNo":"13389893938","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

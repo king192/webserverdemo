@@ -1,0 +1,1 @@
+2017-03-16 11:40:13  [{"Updata_Je":0.0000,"Address":"增城区荔城街法政路39号（美宜佳）（送货地址）","UserName":"增城华立学院张莉","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":682,"Password":"123456","Telephone":"13544528281","CardNo":"13928944828","FPapers":"","Email":"","FStockID":29,"FDeleteFlag":1}]  

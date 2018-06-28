@@ -1,0 +1,1 @@
+2017-08-31 11:10:09  [{"Updata_Je":0.0000,"Address":"广州市白云区太和镇和乐路3号荃鸿广场-F-03铺","UserName":"白云太和黎桂兰","Birthday":"2017-08-30T00:00:00","FIntegral":0.0000,"FItemID":1044,"Password":"123456","Telephone":"13760600270","CardNo":"13760600270","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

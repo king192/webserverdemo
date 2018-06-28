@@ -1,0 +1,1 @@
+2018-01-11 16:03:17  [{"Updata_Je":0.0000,"Address":"高州市顿梭镇电信隔离","UserName":"茂名高州顿梭镇邹其健","Birthday":"2018-01-11T00:00:00","FIntegral":0.0000,"FItemID":1076,"Password":"123456","Telephone":"15218296007","CardNo":"15218296007","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

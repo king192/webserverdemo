@@ -1,0 +1,1 @@
+2017-11-16 11:54:40  [{"Updata_Je":0.0000,"Address":"深圳市龙岗区植物园路194号","UserName":"深圳龙岗刘英","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":456,"Password":"548946","Telephone":"18565665802","CardNo":"（停用）18565665802","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

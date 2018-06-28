@@ -1,0 +1,2 @@
+2018-06-21 16:37:17  [{"Updata_Je":0.0000,"Address":"茂名茂港区羊角镇文明路37号","UserName":"茂名茂港蔡燕辉","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":879,"Password":"123456","Telephone":"18617033229","CardNo":"17666294488","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2018-06-21 17:06:13  [{"Updata_Je":0.0000,"Address":"广西省贵港市港南区港南一号一栋一楼","UserName":"广西贵港雷赞美","Birthday":"2018-06-21T00:00:00","FIntegral":0.0000,"FItemID":1122,"Password":"123456","Telephone":"18978591110","CardNo":"18978591110","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

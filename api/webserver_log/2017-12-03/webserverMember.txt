@@ -1,0 +1,1 @@
+2017-12-03 11:47:55  [{"Updata_Je":0.0000,"Address":"茂名化州市那务镇府前路15号","UserName":"化州那务镇王秋梅","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":852,"Password":"123456","Telephone":"13538682856","CardNo":"18813543574","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

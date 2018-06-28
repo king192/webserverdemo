@@ -1,0 +1,1 @@
+2017-08-21 15:32:17  [{"Updata_Je":0.0000,"Address":"信宜市水口镇开发区邮政斜对面94号","UserName":"茂名信宜水口黄昭拉","Birthday":"2017-05-09T00:00:00","FIntegral":0.0000,"FItemID":989,"Password":"123456","Telephone":"18218295596","CardNo":"13543379868","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

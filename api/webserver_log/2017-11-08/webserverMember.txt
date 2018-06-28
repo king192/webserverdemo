@@ -1,0 +1,1 @@
+2017-11-08 14:53:06  [{"Updata_Je":0.0000,"Address":"广西玉林北流市六麻镇黄金开发区邮政旁","UserName":"广西玉林任小兰","Birthday":"2017-11-08T00:00:00","FIntegral":0.0000,"FItemID":1058,"Password":"123456","Telephone":"13527966121","CardNo":"13527966121","FPapers":"","Email":"","FStockID":20,"FDeleteFlag":1}]  

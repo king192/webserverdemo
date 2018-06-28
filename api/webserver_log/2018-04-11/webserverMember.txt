@@ -1,0 +1,1 @@
+2018-04-11 16:47:52  [{"Updata_Je":0.0000,"Address":"东莞市大朗镇富华中路181号五福购物中心外广场01-02商铺","UserName":"东莞大朗杨炯锋","Birthday":"2018-03-14T00:00:00","FIntegral":0.0000,"FItemID":1083,"Password":"123456","Telephone":"15919836213","CardNo":"13714318704","FPapers":"","Email":"","FStockID":33,"FDeleteFlag":1}]  

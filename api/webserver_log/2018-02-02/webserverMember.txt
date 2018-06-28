@@ -1,0 +1,1 @@
+2018-02-02 15:59:29  [{"Updata_Je":0.0000,"Address":"广东省茂名市沙琅镇新城街","UserName":"茂名沙琅叶其艺","Birthday":"2018-02-02T00:00:00","FIntegral":0.0000,"FItemID":1079,"Password":"123456","Telephone":"18899890180","CardNo":"18899890180","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

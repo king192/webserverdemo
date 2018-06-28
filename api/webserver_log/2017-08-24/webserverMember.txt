@@ -1,0 +1,1 @@
+2017-08-24 15:53:29  [{"Updata_Je":0.0000,"Address":"福建省漳平市第二中学旁","UserName":"福建漳平陈冰雅","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":269,"Password":"123456","Telephone":"15880600603","CardNo":"15860150006","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

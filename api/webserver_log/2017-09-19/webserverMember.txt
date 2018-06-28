@@ -1,0 +1,1 @@
+2017-09-19 14:57:23  [{"Updata_Je":0.0000,"Address":"广东省台山市台城镇台西路167号地下","UserName":"台山台城谢小芳","Birthday":"2018-01-01T00:00:00","FIntegral":0.0000,"FItemID":1049,"Password":"123456","Telephone":"13672928333","CardNo":"13672928333","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

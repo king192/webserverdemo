@@ -1,0 +1,1 @@
+2017-07-26 10:06:10  [{"Updata_Je":0.0000,"Address":"梅州兴宁教育路合意楼第四卡","UserName":"梅州兴宁","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":405,"Password":"123456","Telephone":"15917933703","CardNo":"13723693772","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

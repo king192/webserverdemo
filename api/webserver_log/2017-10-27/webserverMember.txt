@@ -1,0 +1,2 @@
+2017-10-27 09:24:47  [{"Updata_Je":0.0000,"Address":"江西省宜春学院第二教学楼","UserName":"江西宜春学院","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":119,"Password":"123456","Telephone":"13970577630","CardNo":"18651614494","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2017-10-27 10:50:10  [{"Updata_Je":0.0000,"Address":"广州市番禺区桥南大润发超市一楼","UserName":"番禺桥南陈薇","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":29,"Password":"123456","Telephone":"15007217063","CardNo":"（停用）15007217063","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

@@ -1,0 +1,2 @@
+2017-04-18 09:30:39  [{"Updata_Je":0.0000,"Address":"江西省抚州市广昌县恬和花园商业步行街","UserName":"江西抚州广昌胡泉武","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":984,"Password":"123456","Telephone":"18279479894","CardNo":"18279479894","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2017-04-18 14:06:00  [{"Updata_Je":0.0000,"Address":"惠州博罗县小金口四角楼商业广场459号","UserName":"惠州罗阳朱维维","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":106,"Password":"8090zww","Telephone":"15119015031","CardNo":"13631952104","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

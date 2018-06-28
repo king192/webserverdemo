@@ -1,0 +1,2 @@
+2017-07-11 10:10:31  [{"Updata_Je":0.0000,"Address":"广东省河源市连平县三角镇向阳村地段开发区","UserName":"河源连平廖羽辉","Birthday":"2017-07-10T00:00:00","FIntegral":0.0000,"FItemID":1018,"Password":"123456","Telephone":"13662287671","CardNo":"13662287671","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2017-07-11 15:18:33  [{"Updata_Je":0.0000,"Address":"浙江省温州市瓯北镇双塔路1054号","UserName":"浙江温州陈思翱","Birthday":"2017-07-11T00:00:00","FIntegral":0.0000,"FItemID":1019,"Password":"123456","Telephone":"13057860370","CardNo":"13057860370","FPapers":"","Email":"","FStockID":20,"FDeleteFlag":1}]  

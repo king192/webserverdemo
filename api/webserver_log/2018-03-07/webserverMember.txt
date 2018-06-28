@@ -1,0 +1,1 @@
+2018-03-07 13:49:44  [{"Updata_Je":0.0000,"Address":"深圳市布吉街道华龙新村82栋首层02铺","UserName":"深圳布吉李永梅","Birthday":"2018-03-07T00:00:00","FIntegral":0.0000,"FItemID":1081,"Password":"123456","Telephone":"18244727848","CardNo":"18244727848","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

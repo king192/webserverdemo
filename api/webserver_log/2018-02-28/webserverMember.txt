@@ -1,0 +1,1 @@
+2018-02-28 16:08:32  [{"Updata_Je":0.0000,"Address":"湖南省长沙市天心区太平老街138号A2号门面","UserName":"湖南天心区澜亭里","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":995,"Password":"123456","Telephone":"18574394594","CardNo":"18507341280","FPapers":"","Email":"","FStockID":6,"FDeleteFlag":1}]  

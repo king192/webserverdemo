@@ -1,0 +1,1 @@
+2017-06-29 10:25:09  [{"Updata_Je":0.0000,"Address":"福建省福州市福清市一佛街华侨电影院旁","UserName":"福建福州福清江红","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":42,"Password":"123456","Telephone":"15995515409","CardNo":"（停用）15995515409","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

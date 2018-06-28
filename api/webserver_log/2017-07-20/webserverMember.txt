@@ -1,0 +1,1 @@
+2017-07-20 13:44:13  [{"Updata_Je":0.0000,"Address":"东莞市寮步镇凫山村凫山中心商业广场爱群百货门口左边","UserName":"东莞寮步凫山郭雪妮","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":234,"Password":"134468","Telephone":"13728280775","CardNo":"（停用）1372828077501","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

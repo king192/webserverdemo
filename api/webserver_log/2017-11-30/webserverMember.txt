@@ -1,0 +1,1 @@
+2017-11-30 11:31:47  [{"Updata_Je":0.0000,"Address":"四川省攀枝花市米易县尚品国际商城负一层F18号","UserName":"四川攀枝花陈晓兰","Birthday":"2017-11-30T00:00:00","FIntegral":0.0000,"FItemID":1066,"Password":"123456","Telephone":"15281233113","CardNo":"15281233113","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

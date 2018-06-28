@@ -1,0 +1,2 @@
+2017-09-26 09:43:10  [{"Updata_Je":0.0000,"Address":"蕉岭新东市场二楼，正华服装城","UserName":"梅州蕉岭林媚媚","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":401,"Password":"123456","Telephone":"15986456834","CardNo":"（停用）15986456834","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  
+2017-09-26 14:05:42  [{"Updata_Je":0.0000,"Address":"洛溪新城奥林匹克花园44号","UserName":"奥园果度直营店","Birthday":"2017-09-26T00:00:00","FIntegral":0.0000,"FItemID":1053,"Password":"123456","Telephone":"15017552021","CardNo":"34544692","FPapers":"","Email":"","FStockID":32,"FDeleteFlag":1}]  

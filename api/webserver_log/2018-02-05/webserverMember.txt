@@ -1,0 +1,1 @@
+2018-02-05 10:00:12  [{"Updata_Je":0.0000,"Address":"陕西省安康市高新区花园大道与316国道十字（天一城市广场G层12号铺）","UserName":"陕西安康黄万保","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":983,"Password":"123456","Telephone":"16607276800","CardNo":"18706228619","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

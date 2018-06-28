@@ -1,0 +1,1 @@
+2017-03-03 10:12:43  [{"Updata_Je":0.0000,"Address":"中山市小榄镇广成村广成路安联路交叉20号","UserName":"中山小榄俞少建","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":207,"Password":"123456","Telephone":"15219337952","CardNo":"15917130475","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

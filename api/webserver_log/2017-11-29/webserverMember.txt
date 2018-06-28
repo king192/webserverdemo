@@ -1,0 +1,2 @@
+2017-11-29 16:37:17  [{"Updata_Je":0.0000,"Address":"云浮市郁南县都城镇新生路62号","UserName":"云浮郁南汪金池","Birthday":"2017-11-29T00:00:00","FIntegral":0.0000,"FItemID":1064,"Password":"123456","Telephone":"13826761688","CardNo":"13826761688","FPapers":"","Email":"","FStockID":33,"FDeleteFlag":1}]  
+2017-11-29 16:46:54  [{"Updata_Je":0.0000,"Address":"四川宜宾市新村职业技术学院","UserName":"四川宜宾孙静","Birthday":"2017-11-29T00:00:00","FIntegral":0.0000,"FItemID":1065,"Password":"123456","Telephone":"18016182056","CardNo":"18016182056","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

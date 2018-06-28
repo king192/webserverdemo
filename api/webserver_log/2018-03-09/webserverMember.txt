@@ -1,0 +1,1 @@
+2018-03-09 13:45:16  [{"Updata_Je":0.0000,"Address":"黑龙江省大庆市让胡路区江苏路阳光商都四楼","UserName":"黑龙江大庆于明坤","Birthday":"2018-01-15T00:00:00","FIntegral":0.0000,"FItemID":1077,"Password":"123456","Telephone":"18645909990","CardNo":"18645909990","FPapers":"","Email":"","FStockID":33,"FDeleteFlag":1}]  

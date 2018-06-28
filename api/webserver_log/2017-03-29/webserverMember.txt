@@ -1,0 +1,1 @@
+2017-03-29 15:05:33  [{"Updata_Je":0.0000,"Address":"梅州市梅县大新城大新花园A栋商住楼5.6号店铺A","UserName":"梅州大新花园","Birthday":"2016-07-14T00:00:00","FIntegral":0.0000,"FItemID":825,"Password":"123456","Telephone":"13539152388","CardNo":"13539152388","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  

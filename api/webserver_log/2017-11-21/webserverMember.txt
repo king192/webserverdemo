@@ -1,0 +1,1 @@
+2017-11-21 15:37:18  [{"Updata_Je":0.0000,"Address":"广东省深圳市龙华区民治街道中海路润达圆庭101之南街道128-129","UserName":"深圳龙华润达澜亭里","Birthday":"2017-11-21T00:00:00","FIntegral":0.0000,"FItemID":1060,"Password":"","Telephone":"13590278880","CardNo":"13590278880","FPapers":"","Email":"","FStockID":6,"FDeleteFlag":1}]  

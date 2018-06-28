@@ -1,0 +1,1 @@
+2017-10-16 09:45:05  [{"Updata_Je":0.0000,"Address":"浙江省台州市玉环县玉城街道小水埠村村部综合大楼向前200米","UserName":"浙江台州玉环夏明秀","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":842,"Password":"123456","Telephone":"15068604046","CardNo":"15068604046","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

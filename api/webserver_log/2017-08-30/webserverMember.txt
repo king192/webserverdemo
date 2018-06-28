@@ -1,0 +1,2 @@
+2017-08-30 14:38:04  [{"Updata_Je":0.0000,"Address":"佛山市顺德区杏坛镇蓬简进仕牌坊直街22号","UserName":"顺德杏坛廖学泉","Birthday":"2017-08-30T00:00:00","FIntegral":0.0000,"FItemID":1043,"Password":"123456","Telephone":"13798619223","CardNo":"13798619223","FPapers":"","Email":"","FStockID":33,"FDeleteFlag":1}]  
+2017-08-30 16:17:18  [{"Updata_Je":0.0000,"Address":"湖南省平江县南江镇第四中学对面","UserName":"湖南平江曾瑞芬","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":845,"Password":"123456","Telephone":"15115042133","CardNo":"18627527567","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

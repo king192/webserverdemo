@@ -1,0 +1,1 @@
+2017-09-25 16:02:38  [{"Updata_Je":0.0000,"Address":"广西省隆林县粮食局第七门面8090鲜萃茶","UserName":"广西隆林邓岚","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":69,"Password":"123456","Telephone":"18278688166","CardNo":"18278688166","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

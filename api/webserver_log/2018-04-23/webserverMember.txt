@@ -1,0 +1,1 @@
+2018-04-23 14:19:20  [{"Updata_Je":0.0000,"Address":"广州市番禺区市桥西丽中路88号","UserName":"番禺市桥西丽陈宇明","Birthday":"2018-04-13T00:00:00","FIntegral":0.0000,"FItemID":1096,"Password":"123456","Telephone":"15807945463","CardNo":"15807945463","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

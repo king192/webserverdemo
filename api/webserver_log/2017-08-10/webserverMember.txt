@@ -1,0 +1,2 @@
+2017-08-10 10:18:59  [{"Updata_Je":0.0000,"Address":"深圳市龙岗区布吉街道办布吉街84号","UserName":"深圳龙岗吴贤良","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":971,"Password":"123456","Telephone":"13620988573","CardNo":"（停用）13620988573","FPapers":"","Email":"","FStockID":17,"FDeleteFlag":1}]  
+2017-08-10 17:00:02  [{"Updata_Je":0.0000,"Address":"东莞市中堂镇悦湖苑3号楼107商铺","UserName":"东莞中堂镇黎淑英","Birthday":"2017-08-10T00:00:00","FIntegral":0.0000,"FItemID":1034,"Password":"123456","Telephone":"13532399369","CardNo":"13532399369","FPapers":"","Email":"","FStockID":20,"FDeleteFlag":1}]  

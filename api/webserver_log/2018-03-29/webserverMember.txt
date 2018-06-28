@@ -1,0 +1,1 @@
+2018-03-29 09:31:57  [{"Updata_Je":0.0000,"Address":"广州市番禺区南浦锦绣半岛东区三号商业楼107","UserName":"锦绣半岛洪源","Birthday":"2018-03-28T00:00:00","FIntegral":0.0000,"FItemID":1085,"Password":"123456","Telephone":"13164788796","CardNo":"13164788796","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  

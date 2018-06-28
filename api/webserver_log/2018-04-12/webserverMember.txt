@@ -1,0 +1,2 @@
+2018-04-12 10:13:54  [{"Updata_Je":0.0000,"Address":"广西省南宁市农院路6-8号三楼12-13商铺","UserName":"广西南宁韦春华","Birthday":"2018-04-11T00:00:00","FIntegral":0.0000,"FItemID":1091,"Password":"123456","Telephone":"15078860639","CardNo":"15078860639","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
+2018-04-12 16:44:38  [{"Updata_Je":0.0000,"Address":"安徽省黄山市屯溪区戴震路42-2号","UserName":"安徽黄山杨树民","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":214,"Password":"04040608","Telephone":"15805591883","CardNo":"（停用）15805591883","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

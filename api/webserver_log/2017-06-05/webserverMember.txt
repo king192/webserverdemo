@@ -1,0 +1,1 @@
+2017-06-05 15:41:41  [{"Updata_Je":0.0000,"Address":"深圳龙岗布吉镇中兴路百盛大厦首层","UserName":"深圳布吉何启钦","Birthday":"2016-07-13T00:00:00","FIntegral":0.0000,"FItemID":445,"Password":"123456","Telephone":"13926578533","CardNo":"（停用）13926578533","FPapers":"","Email":"","FStockID":7,"FDeleteFlag":1}]  

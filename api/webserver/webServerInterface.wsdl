@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<definitions name="webServerInterface" targetNamespace="urn:webServerInterface" xmlns:typens="urn:webServerInterface" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+ 
+ <message name="setShop">
+  <part name="data" type="xsd:string"/>
+ </message>
+ <message name="setShopResponse">
+  <part name="setShopReturn" type="xsd:string"/>
+ </message> 
+ 
+ <message name="setProduct">
+  <part name="data" type="xsd:string"/>
+ </message>
+ <message name="setProductResponse">
+  <part name="setProductReturn" type="xsd:string"/>
+ </message> 
+ 
+ 
+ <message name="setClass">
+  <part name="data" type="xsd:string"/>
+ </message>
+ <message name="setClassResponse">
+  <part name="setClassReturn" type="xsd:string"/>
+ </message>
+ 
+ <message name="setMember">
+  <part name="data" type="xsd:string"/>
+ </message>
+ <message name="setMemberResponse">
+  <part name="setMemberReturn" type="xsd:string"/>
+ </message>
+ 
+ 
+ <portType name="webServerInterfacePortType">
+  <documentation>
+    PHP WebService 接口
+  </documentation>
+  <operation name="setShop">
+   <documentation>
+    	门店接口
+   </documentation>
+   <input message="typens:setShop"/>
+   <output message="typens:setShopResponse"/>
+  </operation>  
+  
+  <operation name="setProduct">
+   <documentation>
+    	商品接口
+   </documentation>
+   <input message="typens:setProduct"/>
+   <output message="typens:setProductResponse"/>
+  </operation> 
+  
+  
+  <operation name="setClass">
+   <documentation>
+    	分类接口
+   </documentation>
+   <input message="typens:setClass"/>
+   <output message="typens:setClassResponse"/>
+  </operation> 
+  
+  
+  <operation name="setMember">
+   <documentation>
+    	会员接口
+   </documentation>
+   <input message="typens:setMember"/>
+   <output message="typens:setMemberResponse"/>
+  </operation> 
+   
+  
+ </portType>
+ <binding name="webServerInterfaceBinding" type="typens:webServerInterfacePortType">
+  <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+  
+  
+  <operation name="setShop">
+   <soap:operation soapAction="urn:webServerInterfaceAction"/>
+   <input>
+    <soap:body namespace="urn:webServerInterface" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+   </input>
+   <output>
+    <soap:body namespace="urn:webServerInterface" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+   </output>
+  </operation> 
+  
+  <operation name="setProduct">
+   <soap:operation soapAction="urn:webServerInterfaceAction"/>
+   <input>
+    <soap:body namespace="urn:webServerInterface" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+   </input>
+   <output>
+    <soap:body namespace="urn:webServerInterface" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+   </output>
+  </operation> 
+  
+  
+  <operation name="setClass">
+   <soap:operation soapAction="urn:webServerInterfaceAction"/>
+   <input>
+    <soap:body namespace="urn:webServerInterface" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+   </input>
+   <output>
+    <soap:body namespace="urn:webServerInterface" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+   </output>
+  </operation>
+  
+  <operation name="setMember">
+   <soap:operation soapAction="urn:webServerInterfaceAction"/>
+   <input>
+    <soap:body namespace="urn:webServerInterface" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+   </input>
+   <output>
+    <soap:body namespace="urn:webServerInterface" use="encoded" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>
+   </output>
+  </operation>
+  
+  
+ </binding>
+ <service name="webServerInterfaceService">
+  <port name="webServerInterfacePort" binding="typens:webServerInterfaceBinding">
+   <soap:address location="http://121.40.197.117/api/webserver/webServerInterface.php"/>
+  </port>
+ </service>
+</definitions>

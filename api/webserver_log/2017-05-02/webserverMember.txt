@@ -1,0 +1,1 @@
+2017-05-02 09:42:29  [{"Updata_Je":0.0000,"Address":"湖南省郴州市国庆南路步步高新天地商场六楼","UserName":"湖南郴州蒋志琴","Birthday":"1900-01-01T00:00:00","FIntegral":0.0000,"FItemID":912,"Password":"123456","Telephone":"18773586685","CardNo":"18207357596","FPapers":"","Email":"","FStockID":5,"FDeleteFlag":1}]  
